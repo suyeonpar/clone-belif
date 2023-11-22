@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 
+<<<<<<< HEAD
 ### 처음으로 해본 클론코딩..
 
 그린아트컴퓨터학원은 수강하면서 처음으로 만들어 본 클론코딩이다..
@@ -144,3 +145,9 @@ swiper 쓰는것에는 크게 문제가 없다. 대신 작명만 안헷갈리게
 
 4개의 콘텐츠에 swiper가 사용되다보니 작명을 잘 해줘야한다는 생각지도 못한 어려움이 있었다
 
+=======
+
+
+
+
+>>>>>>> 5ca4f94c56ac8041b869958be5e4d41b3aea2920
